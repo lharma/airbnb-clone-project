@@ -37,3 +37,8 @@ Data Optimization: Ensure efficient data retrieval and storage through database 
 OpenAPI Standard: The backend APIs are documented using the OpenAPI standard to ensure clarity and ease of integration.
 Django REST Framework: Provides a comprehensive RESTful API for handling CRUD operations on user and property data.
 GraphQL: Offers a flexible and efficient query mechanism for interacting with the backend.
+
+# CI/CD Pipeline
+In this Airbnb Clone project, CI/CD (Continuous Integration and Continuous Deployment) pipelines play a crucial role in ensuring a smooth and reliable development workflow. Continuous Integration automatically builds and tests the application whenever new code is pushed to the repository, helping to identify and fix bugs early. Continuous Deployment then takes over to automatically deliver verified updates to the production or staging environment. This automation reduces manual work, ensures consistency across environments, and allows faster, safer feature releases—such as booking management, user authentication, or property listing updates.
+
+The project leverages tools like GitHub Actions for automating builds, testing, and deployments, and Docker for containerizing the application to maintain consistent environments across different machines. Jest and Cypress are used for automated testing, while deployment platforms like Vercel, Netlify, or AWS handle live deployments. Together, these tools create a robust CI/CD pipeline that enhances collaboration, code quality, and scalability—keeping the Airbnb Clone efficient, stable, and production-ready.
