@@ -41,6 +41,26 @@ Headings: Circular, Bold (700), 24px-32px
 Secondary Text: Circular, Book (400), 14px
 # UI/UX Design Planning
 # Project Roles and Responsibilities
+# UI Component Patterns
+Planned Components
+Navbar
+
+Logo
+Search bar
+User navigation
+Responsive menu
+Property Card
+
+Property image
+Basic details (price, location, rating)
+Favorite button
+Responsive layout
+Footer
+
+Site links
+Company information
+Social media links
+Copyright information
 
 # Technology Stack
 
