@@ -2,6 +2,10 @@
 the project goal is to help customers to book hotel and many more in hospitality
 the Tech Stack is Python DJANGO and Postgre sql for Database and,Graphql for data query 
 # Team Roles
+PRODUCT MANAGER: HE IS INCHARGE OF THE MILESTONE OF THE PROJECT AND LEADER
+FRONT-END: HE IMPLEMENT THE CLIENT SIDE OF THE AIRB&B PROJECT
+BACKEND: HE IMPLEMENT THE SERVER SIDE ,PROJECT LOGIC,DATABASE AND ETC
+UI/UX DESIGNER: HE IS INCHARGE OF THE WHO PROJECT DESIGN USING FIGMA,ADOBE EXPRESS ETC
 # Technology Stack
 .PYTHON FOR THE BACKEND
 .DJANGO FOR BUILDING REST API
@@ -13,3 +17,4 @@ the Tech Stack is Python DJANGO and Postgre sql for Database and,Graphql for dat
 .PROPERTIES
 .BOOKING RELATE TO PROPERTIES
 .
+# Feature Breakdown”
